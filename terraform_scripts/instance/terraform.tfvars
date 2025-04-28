@@ -9,4 +9,4 @@ instances = {
     # "debian-vm" = {
     #   ami = "fd8vu3f6mtmla5ur3h0g" # Debian 11
     # }
-  }
+
