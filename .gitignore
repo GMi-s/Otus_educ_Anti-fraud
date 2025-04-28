@@ -1,0 +1,11 @@
+
+# Ignore files
+instance.sh
+otus-service-account-key.json
+terraform.tfstate.backup
+
+# Ignore folders
+/Otus_educ_Anti-fraud
+.DS_Store
+.terraform
+.terraform.lock.hcl
